@@ -1,5 +1,5 @@
 {
-  "name": "enlargify",
+  "name": "BoofChat",
   "description": "Chat application using EasyRTC",
   "version": "0.0.1",
   "dependencies": {
