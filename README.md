@@ -1,5 +1,5 @@
-# Enlargify
-> Enlargify is a chatroulette or omegle like application which allows users to have video/audio/text chat with random people. It uses EasyRTC project which built on top of WebRTC.
+# Boofroulette
+> Boofroulette is a chatroulette or omegle like application which allows users to have video/audio/text chat with random people. It uses EasyRTC project which built on top of WebRTC.
 <hr>
 
 # Table of Contents
@@ -12,15 +12,12 @@
 ## <a name="demo"></a>Online Demo
 You can find the demo deployed on heroku at the following address:
 
-http://enlargify.herokuapp.com
+https://chatcruelette.herokuapp.com/
 
 ## <a name="installation"></a>Installation
 * Clone the project
 
   ```
-  $wd=/path/to/dir
-  git clone https://github.com/merictaze/enlargify.git $wd 
-  cd $wd
   ```
 * Install node if you do not have already
 
@@ -37,11 +34,10 @@ http://enlargify.herokuapp.com
   ```
   nodejs server.js
   ```
-* Check it on your browser http://localhost:5000
 
 ## <a name="structure"></a>Directory Structure
 ```
-enlargify/
+Boofroulette/
 ├── server.js               : Server side nodejs script
 ├── index.html              : Main page
 ├── public/
