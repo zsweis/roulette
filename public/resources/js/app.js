@@ -27,7 +27,7 @@
   
   $('#next_btn').on('click', function() {
     hangupCall();
-    addMessage('searching...');
+    addMessage('searching for boof...');
     easyrtc.webSocket.emit('next_user');
   });
   
