@@ -3,7 +3,7 @@
   var self = {
     id: null,
     partnerId: null,
-    username: 'User_'+Math.random().toString(36).substring(4,8)
+    username: 'Boof_'+Math.random().toString(36).substring(4,8)
   };
   
   // store the DOM elements to use later
