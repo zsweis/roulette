@@ -1,5 +1,7 @@
 (function($) {
 
+  var easyrtc = 'open-easyrtc'
+  
   var self = {
     id: null,
     partnerId: null,
