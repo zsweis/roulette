@@ -1,6 +1,6 @@
 (function($) {
 
-  var easyrtc = 'open-easyrtc'
+  var easyrtc = 'open-easyrtc';
   
   var self = {
     id: null,
