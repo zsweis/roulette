@@ -6,7 +6,7 @@ var easyrtc = require("easyrtc");           // EasyRTC external module
 
 // setup and configure Express http server. Expect a subfolder called "static" to be the web root.
 // setting old easyrtc package var = to newer open-easyrtc dependency reference
-var easyrtc = 'open-easyrtc';
+var easyrtc = 'open-easyrtc'
 
 var httpApp = express();
 httpApp.use(express.static(__dirname + "/public"));
